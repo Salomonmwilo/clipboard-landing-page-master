@@ -1,36 +1,34 @@
 # Clipboard Landing Page - Frontend Mentor Challenge 
-Ce projet est une solution au [challenge Clipboard Landing Page](https://www.frontendmentor.io/challenges/clipboard-landing-page-gjw_ycRZB) sur Frontend Mentor.
+This project is a solution to the [challenge Clipboard Landing Page](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9) on Frontend Mentor.
 This challenge will help me to improve my coding skills by building realistic projects. This challenge is to build out this landing page and get it looking as close to the design as possible.
 
-##  Aperçu  
+## # Overview  
 
-###  Screenshot  
+### # Screenshot  
 
-![Aperçu du projet](./screenshot.png)
-
----
-
-##  Fonctionnalités  
-
-- Page d'accueil responsive  
-- Design fidèle au modèle Frontend Mentor  
-- Utilisation des **Flexbox** et **Grid** pour la mise en page  
-- Bonnes pratiques d'accessibilité  
+![Project Preview] (./screenshot.png)
 
 ---
 
-##  Technologies utilisées  
+## # Features  
+
+- Responsive home page  
+- Design faithful to the Frontend Mentor model  
+- Use of **Flexbox** and **Grid** for layout  
+- Good accessibility practices  
+
+---
+
+## # Technologies used  
 
 - **HTML5**  
 - **CSS3**  
-- **Flexbox** et **CSS Grid** pour le positionnement  
-  
-
+- **Flexbox** and **CSS Grid** for positioning  
 ---
 
-## Structure du projet  
+## Project structure  
 
-Voici un aperçu des fichiers et dossiers du projet :  
+Here is a preview of the project files and folders:  
 
 ```bash
 clipboard-landing-page-master
@@ -38,36 +36,40 @@ clipboard-landing-page-master
 │   index.html
 │   style.css
 │   screenshot.png
-└── assets/
-    ├── images/
-    ├── icons/
+└── Starting materials/
+    ├──Design
+    ├── images
+    ├── README
+    ├── README-template
+    ├── style-guide    
 ```
 
 ---
 
-## Ce que j'ai appris  
+## What I have learned  
 
-Ce projet m'a permis de :  
+This project has enabled me to:  
 
-- Pratiquer **Flexbox** et **CSS Grid** pour la mise en page.  
-- Appliquer les principes du responsive design.  
-- Approfondir mes compétences en **HTML et CSS** pour des designs simples et élégants.  
-
----
-
-## Ressources utiles  
-
-- [Documentation MDN - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)  
-- [CSS Tricks - Guide complet Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
-- [Frontend Mentor](https://www.frontendmentor.io)  
+- Practice **Flexbox** and **CSS Grid** for layout.  
+- Apply the principles of responsive design.  
+- Deepen my **HTML and CSS** skills for simple, elegant designs.  
 
 ---
 
-## 📧 Contact  
+## Helpful resources  
 
-N'hésitez pas à me contacter si vous avez des questions ou suggestions :  
+- [MDN Documentation - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)  
+- [CSS Tricks - CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+
+---
+
+## # Contact  
+
+Please contact me if you have any questions or suggestions:  
 - **Email** : salomonmwilo@gmail.com  
-- **GitHub** : [@votre-github](https://github.com/votre-github)  
+- **GitHub** : [Salomon Mwilo](https://github.com/Salomonmwilo)
+- **Visit** : [Michaelkentburns.com](https://michaelkentburns.com)
 
-Si vous aimez ce projet, n'hésitez pas à ⭐️ le repo !  
+If you like this project, do not hesitate to ⭐️ the repo!
+
 
