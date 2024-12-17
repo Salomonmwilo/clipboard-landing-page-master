@@ -8,13 +8,9 @@ This challenge will help me to improve my coding skills by building realistic pr
 
 ![Aperçu du projet](./screenshot.png)
 
-### 🌐 Démo en direct  
-
-👉 [Lien vers le site déployé](https://votre-lien-exemple.com)
-
 ---
 
-## ⚙️ Fonctionnalités  
+##  Fonctionnalités  
 
 - Page d'accueil responsive  
 - Design fidèle au modèle Frontend Mentor  
@@ -23,16 +19,16 @@ This challenge will help me to improve my coding skills by building realistic pr
 
 ---
 
-## 🛠️ Technologies utilisées  
+##  Technologies utilisées  
 
 - **HTML5**  
 - **CSS3**  
 - **Flexbox** et **CSS Grid** pour le positionnement  
-- Responsive design pour s'adapter aux différentes tailles d'écran  
+  
 
 ---
 
-## 📂 Structure du projet  
+## Structure du projet  
 
 Voici un aperçu des fichiers et dossiers du projet :  
 
@@ -49,7 +45,7 @@ clipboard-landing-page-master
 
 ---
 
-## ✨ Ce que j'ai appris  
+## Ce que j'ai appris  
 
 Ce projet m'a permis de :  
 
@@ -59,7 +55,7 @@ Ce projet m'a permis de :
 
 ---
 
-## 🔗 Ressources utiles  
+## Ressources utiles  
 
 - [Documentation MDN - Flexbox](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Flexbox)  
 - [CSS Tricks - Guide complet Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
@@ -70,15 +66,8 @@ Ce projet m'a permis de :
 ## 📧 Contact  
 
 N'hésitez pas à me contacter si vous avez des questions ou suggestions :  
-- **Email** : votre.email@example.com  
+- **Email** : salomonmwilo@gmail.com  
 - **GitHub** : [@votre-github](https://github.com/votre-github)  
 
 Si vous aimez ce projet, n'hésitez pas à ⭐️ le repo !  
 
----
-
-🔗 **Frontend Mentor** - [Profil](https://www.frontendmentor.io/profile/votre-profile)  
-
----
-
-Cela donne un README propre et informatif ! N'hésitez pas à le personnaliser pour qu'il reflète mieux vos choix et votre style. 😊
