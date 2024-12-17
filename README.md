@@ -57,7 +57,7 @@ Ce projet m'a permis de :
 
 ## Ressources utiles  
 
-- [Documentation MDN - Flexbox](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Flexbox)  
+- [Documentation MDN - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)  
 - [CSS Tricks - Guide complet Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 - [Frontend Mentor](https://www.frontendmentor.io)  
 
