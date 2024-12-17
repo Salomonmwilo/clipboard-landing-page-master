@@ -1,15 +1,11 @@
 # Clipboard Landing Page - Frontend Mentor Challenge 
 This project is a solution to the [challenge Clipboard Landing Page](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9) on Frontend Mentor.
 This challenge will help me to improve my coding skills by building realistic projects. This challenge is to build out this landing page and get it looking as close to the design as possible.
-
-## # Overview  
-
-### # Screenshot  
-
-![Project Preview] (./screenshot.png)
+ My users should be able to: 
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
 
 ---
-
 ## # Features  
 
 - Responsive home page  
